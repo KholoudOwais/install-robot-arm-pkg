@@ -27,8 +27,6 @@
 
 # Demo
 
-[Demo](https://arabicnews-classifier.herokuapp.com/)
 
-
-<img src="static/images/Demo.gif"/>
+<img src="Demo.gif"/>
 
