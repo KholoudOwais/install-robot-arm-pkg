@@ -23,6 +23,12 @@
 4. Compile the package
 	- catkin_make
 5. Launch robot arm pkg
-	roslaunch robot_arm_pkg check_motors.launch
+	- roslaunch robot_arm_pkg check_motors.launch
 
+# Demo
+
+[Demo](https://arabicnews-classifier.herokuapp.com/)
+
+
+<img src="static/images/Demo.gif"/>
 
